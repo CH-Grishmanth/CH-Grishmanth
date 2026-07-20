@@ -69,13 +69,23 @@ An AI-driven finance platform for managing crypto, equity, and real-estate portf
 - Integrated **Grok API** for personalized investment guidance and automated portfolio analysis
 - Real-time asset valuation via **CCXT** and **Stock-NSE API** integrations
 
+#### 🛍️ Smart Retail Demand & Pricing Intelligence
+A data-driven retail intelligence system for forecasting demand and optimizing pricing decisions.
+- Developed using **Python**, with analytics and forecasting workflows for retail datasets
+- Performs demand trend analysis and pricing intelligence to support revenue-focused decisions
+- Project Repo: **[Smart-Retail-Demand-Pricing-Intelligence](https://github.com/CH-Grishmanth/Smart-Retail-Demand-Pricing-Intelligence)**
+
+#### 🏆 NextChamp
+A modern full-stack application focused on performance, usability, and scalable architecture.
+- Built with modern web technologies for responsive and maintainable product development
+- Emphasizes structured project organization and production-ready deployment practices
+- Project Repo: **[NextChamp-](https://github.com/CH-Grishmanth/NextChamp-)**
+
 #### 🎓 CBIT Events Portal
 A full-stack platform to manage and categorize campus events (coding, non-coding, external).
 - Built with **HTML, CSS, JavaScript, Node.js, MongoDB**
 - **Google OAuth + JWT** for secure, role-based admin access
 - Dynamic filtering & media uploads via a RESTful API secured with **rate limiting and Helmet**
-
----
 
 ### 📫 Let's Connect
 
